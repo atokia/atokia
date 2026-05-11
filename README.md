@@ -36,7 +36,6 @@ GitHub 仓库: 持续增长中 📈
 
 ## 🎯 My Interests
 
-- **编程**: Python | JavaScript | TypeScript | Golang | ...
 - **开发**: Web开发 | 数据处理 | 自动化工具
 - **探索**: AI | 开源社区 | 最佳实践
 - **分享**: 知识 | 经验 | Bug story 😅
